@@ -9,4 +9,4 @@
 projeto simples apenas para registrar pedidos em uma dashboard e modificar status, 
 
 
-#Atenção! faltou esquema do bando de dados irei esta colocando em preve.
+#Atenção! faltou esquema do bando de dados irei esta colocando em breve.
